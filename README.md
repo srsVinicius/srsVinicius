@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Vinicius 👋
 
-<!--
-**srsVinicius/srsVinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a technology enthusiast focused on building practical digital solutions and exploring how artificial intelligence, automation, and software can solve real-world problems.
 
-Here are some ideas to get you started:
+My interests include web development, AI-powered applications, process automation, and turning ideas into functional products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on
+
+- Exploring practical applications of AI and automation.
+- Building and improving web-based solutions.
+- Learning through hands-on projects and experimentation.
+- Developing digital initiatives through **FORGEHILL**.
+
+### 🛠️ Technologies & Tools
+
+Python · JavaScript · TypeScript · React · Git · GitHub
+
+### 🌐 Find out more
+
+[FORGEHILL](https://forgehill.com.br)
